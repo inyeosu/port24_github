@@ -6,9 +6,10 @@
   </head>
   <body>
     <?php
-    $str = "hellow PHP";
+    $str = "hello PHP";
      ?>
-     PHP 명령어로 작성한 <?= $str ?></br>
-     HTML 태그로 작성한 HELLOW PHP!!
+     PHP 명령어로 작성한 <?php echo = $str;
+     ?></br>
+     HTML 태그로 작성한 HELLO PHP!!
   </body>
 </html>
